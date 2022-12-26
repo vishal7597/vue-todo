@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal7597
 - 👀 I’m interested in Magento.
-- 🌱 I’m currently learning Magento and Ansible
+- 🌱 I’m currently learning Magento
 - 📫 Reach me on twitter - @vrathod7597
 
 <!---
